@@ -1,0 +1,126 @@
+.poll {
+
+    // .poll__container
+    &__container {}
+
+    // .poll__block
+    &__block {
+        padding-bottom: 85px;
+    }
+
+    // .poll__undertitle
+    &__undertitle {}
+
+    // .poll__flex
+    &__flex {}
+
+    // .poll__title
+    &__title {
+        width: 100%;
+        line-height: 55px;
+    }
+
+    // .poll__pages
+    &__pages {}
+
+    // .poll__images
+    &__images {}
+
+    // .poll__descript
+    &__descript {}
+}
+
+.slider {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+
+.images-shirt {
+    width: 32px;
+    height: 32px;
+}
+
+.position {
+    color: #000000;
+    position: relative;
+    left: 1100px;
+    top: -400px;
+}
+
+.position1 {
+    color: #000000;
+    position: relative;
+    left: var(--swiper-navigation-sides-offset, 545px);
+    top: -420px;
+}
+
+
+
+.margin-recess {}
+
+.padding-recess {}
+
+.offers {}
+
+.offers-color {}
+
+.title-recess {}
+
+.slider {}
+
+.mySwiper3 {
+}
+
+.swiper-wrapper {}
+
+.swiper-slide {}
+
+.images-cover {}
+
+.swiper-descript {
+    padding-top: 70px;
+    // .swiper-descript__title
+    &__title {
+        width: 565px;
+        text-align: justify;
+        font-size: 30px;
+        line-height: 30.8px;
+        padding-bottom: 112px;
+    }
+
+    // .swiper-descript__text
+    &__text {
+        font-size: 20px;
+        line-height: 20px;
+        text-transform: capitalize
+    }
+
+    // .swiper-descript__subtext
+    &__subtext {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 18px;  
+        text-transform: capitalize
+    }
+}
+
+.swiper-button-next {}
+
+.position {}
+
+.swiper-button-prev {}
+
+.position1 {}
+
+.swiper-pagination {}

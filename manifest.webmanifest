@@ -1,0 +1,11 @@
+{
+    "icons" : [
+        {"src" : "images/favicon/android-chrome-192x192.png", "type" : "images/png", "sizes" : "192x192"},
+        {"src" : "images/favicon/android-chrome-512x512.png", "type" : "images/png", "sizes" : "512x515"},
+        {"src" : "images/favicon/apple-touch-icon.png", "type" : "images/png", "sizes" : ""},
+        {"src" : "images/favicon/favicon-16x16.png", "type" : "images/png", "sizes" : "16x16"},
+        {"src" : "images/favicon/favicon-32x32.png", "type" : "images/png", "sizes" : "32x32"},
+        {"src" : "images/favicon/favicon-original.jpe", "type" : "images/jpe", "sizes" : ""},
+        {"src" : "favicon.ico", "type" : "favicon", "sizes" : ""}
+    ]
+}

@@ -1,0 +1,150 @@
+
+.projects {
+    
+    // .projects__container
+    &__container {
+        padding-bottom: 70px;
+    }
+
+    // .projects__undertitle
+    &__undertitle {  
+        padding-bottom: 70px;      
+    }
+
+    &__flex {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    // .projects__title
+    &__title {
+        width: 750px;
+    }
+}
+
+.offers-color {
+    color: rgb(177, 108, 234);;
+}
+
+.btn-projects {
+    width: 201px;
+    height: 58px;
+    background: rgb(0, 0, 0);
+    color: #fff;    
+}
+
+.swiper-slide {
+    text-align: right;
+    font-size: 18px;
+    background: inherit;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper {
+    width: 30%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mySwiper2 {
+    height: 80%;
+    width: 100%;
+}
+
+
+.swiper-slide {
+    
+    // .swiper-slide__block
+    &__block {
+        width: 452px;
+        text-align: left;
+        padding: 33px 0 35px 33px;
+        background-color: rgb(238, 237, 237);
+    }
+}
+
+.page-title {
+    color: rgb(60, 70, 255);
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding-bottom: 17px;
+}
+
+.page-text {
+    font-size: 24px;
+    line-height: 26.4px;
+    text-transform: capitalize;
+    padding-bottom: 19px;
+}
+
+.page {
+    display: flex;
+}
+
+.page-link {    
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: capitalize;
+}
+
+.svg-icon {
+    margin-left: 15px;
+}
+
+.mySwiper {
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+
+.mySwiper .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 0.15;
+}
+
+.margin-swiper {
+    transform: translateY(200px);
+    margin-top: 15px;
+    margin-bottom: 38px;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    max-width: 486px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper-button-next {
+    color: #9000ff;
+}
+
+.swiper-button-prev {
+    color: #9000ff;
+}
+
+.background-site {
+    transform: translateY(-60%);
+    background-color: #000;
+    height: 40vh;
+}

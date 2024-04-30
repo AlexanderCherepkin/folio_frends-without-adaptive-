@@ -1,0 +1,23 @@
+.trusted {
+    padding-bottom: 80px;
+    // .trusted__container
+    &__container {}
+
+    // .trusted__title
+    &__title {
+        text-align: center;
+        font-size: 20px;
+        line-height: 18px;
+        padding-bottom: 45px;
+    }
+
+    // .trusted__logotypes
+    &__logotypes {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    // .trusted__logotype
+    &__logotype {}
+}

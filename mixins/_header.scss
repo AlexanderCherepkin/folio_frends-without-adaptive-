@@ -1,0 +1,103 @@
+header {
+    padding: 20px 0;
+    // margin-bottom: 97px;
+}
+
+.head {
+    margin-bottom: 70px;  
+    &__container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;   
+    }
+}
+
+.logo {
+    align-items: center;
+    // 
+}
+
+.menu {
+    // .menu__list
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    // .menu__item
+    &__item + &__item{
+        padding-left: 40px;
+    }
+
+    &__item ~ .call {
+        padding: 9px 0 0 9px;
+    }
+
+    // .menu__link
+    &__link {
+        font-weight: 400;
+        line-height: 28px;
+        transition: all .3s ease-in-out;
+        &:hover, &:active {
+            text-shadow: 1px 0 0 rgb(0, 0, 0);
+            transition: all .3s ease-in-out;
+        }
+        // Не могу разобраться, почему при наведении на текст
+        // происходит смещение текста, на котором сработал hover,
+        // но и другого соседнего текста. В hover меняю font-weight с 400 на 700
+        //можно использовать text-shadow: text-shadow: 1px 0 0 rgb(0, 0, 0);
+    }
+}
+
+
+.images-inspire {
+    width: 505px;
+    object-fit: fill;
+}
+
+.inspires {
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }    
+}
+
+.inspire {
+    // .inspire__title
+    &__title {
+        font-size: 72px;
+        padding-bottom: 34px;
+    }
+
+    // .inspire__text
+
+    &__text {
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 33px;
+        padding-bottom: 38px;
+    }
+}
+
+.decor {
+    color: rgb(255, 138, 86);
+    line-height: 82.5px;
+    letter-spacing: 2px;
+}
+
+.btn {
+    background-color: rgb(0, 0,0);
+    color: #fff;
+    padding: 11px 26px;
+    border: none;
+}
+
+.btn-cv {
+    background-color: transparent;
+    color: #000;
+    padding: 10px 25px;
+    border: 1px solid #000;
+    margin-left: 33px;
+}

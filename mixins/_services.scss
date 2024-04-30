@@ -1,0 +1,72 @@
+.services {
+
+    // .services__container
+    &__container {
+        text-align: center;
+    }
+
+    // .services__block
+    &__block {}
+
+    // .services__undertitle
+    &__undertitle {
+        padding-bottom: 115px;
+    }
+
+    // .services__title
+    &__title {
+        margin: 0 auto;
+    }
+}
+
+.offers-center {
+    color: rgb(255, 94, 105);
+}
+
+.services {
+    padding-bottom: 91px;
+
+    // .services__items
+    &__items {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: left;
+
+    }
+
+    // .services__item
+    &__item {
+        align-self: stretch; // Элемент растягивается, чтобы занять всё свободное пространство контейнера по поперечной оси.
+    }
+
+    // .services__subtitle
+    &__subtitle {
+        font-size: 24px;
+        line-height: 26.4px;
+        padding: 57px 0 25px 0;
+
+    }
+
+    // .services__subtext
+    &__subtext {
+        color: rgb(161, 161, 161);
+        line-height: 28px;
+        padding-bottom: 21px;
+        width: 300px;
+    }
+
+    // .services__list
+    &__list {}
+
+    // .services__block
+    &__block {
+        list-style: square;
+        margin-left: 15px;
+    }
+
+    // .services__link
+    &__link {
+        line-height: 28px;
+    }
+}
