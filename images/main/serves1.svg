@@ -1,0 +1,28 @@
+<svg width="70.000000" height="70.000000" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_497">
+			<rect id="IMAGE" width="70.000000" height="70.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_1_498_0" x1="19.128597" y1="-5.840572" x2="19.358482" y2="62.113667" gradientUnits="userSpaceOnUse">
+			<stop offset="0.197917" stop-color="#B16CEA"/>
+			<stop offset="0.557292" stop-color="#FF5E69"/>
+			<stop offset="0.828125" stop-color="#FF8A56"/>
+			<stop offset="1.000000" stop-color="#FFA84B"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_499_0" x1="45.749100" y1="14.628964" x2="45.864120" y2="48.452972" gradientUnits="userSpaceOnUse">
+			<stop offset="0.197917" stop-color="#B16CEA"/>
+			<stop offset="0.557292" stop-color="#FF5E69"/>
+			<stop offset="0.828125" stop-color="#FF8A56"/>
+			<stop offset="1.000000" stop-color="#FFA84B"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip1_497)">
+		<path id="Vector" d="M35.33 69.82C26.74 69.82 18.49 66.15 12.41 59.6C6.33 53.05 2.91 44.17 2.91 34.91C2.91 25.65 6.33 16.77 12.41 10.22C18.49 3.67 26.74 0 35.33 0L35.33 34.91L35.33 69.82Z" fill="url(#paint_linear_1_498_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M53.81 52.29C49.53 52.29 45.43 50.46 42.4 47.2C39.38 43.94 37.68 39.52 37.68 34.91C37.68 30.3 39.38 25.88 42.4 22.62C45.43 19.36 49.53 17.53 53.81 17.53L53.81 34.91L53.81 52.29Z" fill="url(#paint_linear_1_499_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M32.42 69.82C23.82 69.82 15.57 66.15 9.49 59.6C3.41 53.05 1.52e-5 44.17 1.52e-5 34.91C1.52e-5 25.65 3.41 16.77 9.49 10.22C15.57 3.67 23.82 0 32.42 0L32.42 34.91L32.42 69.82Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M50.89 52.29C46.61 52.29 42.51 50.46 39.48 47.2C36.46 43.94 34.76 39.52 34.76 34.91C34.76 30.3 36.46 25.88 39.48 22.62C42.51 19.36 46.61 17.53 50.89 17.53L50.89 34.91L50.89 52.29Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
